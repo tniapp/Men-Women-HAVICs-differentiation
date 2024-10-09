@@ -1,1 +1,2 @@
 # Men-Women-HAVICs-differentiation
+This code replicates the bioinformatic analysis conducted on proteomic and transcriptomic data of human aortic valve interstitial cells (HAVICs) obtained from male and female donors. The analysis focuses on these cells at both 5 and 10 days of osteogenic differentiation induction. This analysis is based on the findings presented in the article titled "Sex-Specific Gene Expression in Osteogenic Differentiation of Human Aortic Valve Interstitial Cells: Insights into Calcific Aortic Valve Disease".
